@@ -28,8 +28,7 @@ Databricks • Apache Spark • Delta Lake • Azure • Python • Scala • Ja
 
 # 🌏 Let's Connect
 
-💼 LinkedIn
-linkedin.com/in/yakup-oeztuerk
+- 💼 [Connect with me on LinkedIn](https://linkedin.com/in/yakup-oeztuerk)
 
 📧 Open to discussions about AI, Data Platforms and Digital Transformation
 
