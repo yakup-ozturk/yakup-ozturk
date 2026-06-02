@@ -1,32 +1,51 @@
 # Hi, I'm Yakup Ozturk 👋
 
-AI Strategy Expert | Data & AI Architect
+AI Strategy Expert focused on building enterprise-grade AI capabilities, modern data platforms and scalable operating models.
 
-I help organizations build and scale enterprise AI capabilities, modern data platforms and AI operating models.
+Currently driving AI transformation initiatives, designing AI operating models and helping organizations turn data and AI into measurable business value.
 
-## 🚀 What I Do
+Previously worked across Data Science, Data Engineering and Enterprise Architecture, delivering large-scale analytics, machine learning and cloud-based data platform solutions.
 
-- Define enterprise AI strategies
-- Design data & AI target architectures
-- Build Agentic AI and GenAI solutions
-- Drive AI governance and adoption
-- Transform data into measurable business value
+I enjoy working with Databricks, Apache Spark, Delta Lake, Python, Agentic AI, LangGraph, Graph-RAG and modern cloud technologies.
 
-## 🏗 Current Focus
+Passionate about AI strategy, leadership, enterprise architecture, innovation and building technology that creates real-world impact.
 
-- Agentic AI
-- Multi-Agent Systems
-- Graph-RAG
-- Databricks & Delta Lake
-- Enterprise AI Governance
-- AI Product Development
+Looking forward to building great things 🚀
 
-## 💻 Tech Stack
+# 🚀 Experience
 
-Databricks • Apache Spark • Delta Lake • Azure • Python • Scala • Kafka • Airflow • Terraform • LangChain • LangGraph
+🇩🇪 Leading enterprise AI initiatives, defining AI strategies and building scalable AI operating models.
 
-## 🌍 Connect
+🇩🇪 Designing and implementing modern data platforms, Data Lakes and analytics ecosystems for large organizations.
 
-- LinkedIn: linkedin.com/in/yakup-oeztuerk
-  
-> Building the bridge between enterprise strategy, data platforms and AI.
+🇩🇪 Building Agentic AI systems, RAG architectures, Text2SQL solutions and AI-powered business applications.
+
+🇩🇪 Delivering real-time and batch data processing solutions using cloud-native technologies and modern data engineering practices.
+
+# 💻 Areas of Interest
+
+* Agentic AI
+* Generative AI
+* Graph-RAG
+* Databricks
+* Apache Spark
+* Delta Lake
+* AI Governance
+* Enterprise Architecture
+* Data Products
+* Data Strategy
+
+# 🛠 Tech Stack
+
+Databricks • Apache Spark • Delta Lake • Azure • Python • Scala • Java • Kafka • Airflow • Terraform • LangChain • LangGraph • Docker
+
+# 🌏 Let's Connect
+
+💼 LinkedIn
+linkedin.com/in/yakup-oeztuerk
+
+📧 Open to discussions about AI, Data Platforms and Digital Transformation
+
+# ⚡ Current Focus
+
+Building the bridge between enterprise strategy, data platforms and AI.
