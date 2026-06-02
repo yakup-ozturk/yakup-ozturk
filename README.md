@@ -4,10 +4,10 @@ AI Strategy Expert focused on building enterprise-grade AI capabilities, modern 
 
 # 🚀 Experience
 
-Leading enterprise AI initiatives, defining AI strategies and building scalable AI operating models.
-Designing and implementing modern data platforms, Data Lakes and analytics ecosystems for large organizations.
-Building Agentic AI systems, RAG architectures, Text2SQL solutions and AI-powered business applications.
-Delivering real-time and batch data processing solutions using cloud-native technologies and modern data engineering practices.
+* Leading enterprise AI initiatives, defining AI strategies and building scalable AI operating models.
+* Designing and implementing modern data platforms, Data Lakes and analytics ecosystems for large organizations.
+* Building Agentic AI systems, RAG architectures, Text2SQL solutions and AI-powered business applications.
+* Delivering real-time and batch data processing solutions using cloud-native technologies and modern data engineering practices.
 
 # 💻 Areas of Interest
 
