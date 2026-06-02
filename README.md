@@ -1,6 +1,6 @@
 # Hi, I'm Yakup Ozturk 👋
 
-AI Strategy Expert | Data & AI Architect | MBA Candidate @ WHU
+AI Strategy Expert | Data & AI Architect
 
 I help organizations build and scale enterprise AI capabilities, modern data platforms and AI operating models.
 
@@ -28,6 +28,5 @@ Databricks • Apache Spark • Delta Lake • Azure • Python • Scala • Ka
 ## 🌍 Connect
 
 - LinkedIn: linkedin.com/in/yakup-oeztuerk
-- GitHub: github.com/yoezbai
-
+  
 > Building the bridge between enterprise strategy, data platforms and AI.
