@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Yakup Oeztuerk 👋
 
-<!--
-**yakup-ozturk/yakup-ozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Strategy Expert | Data & AI Architect | MBA Candidate @ WHU
 
-Here are some ideas to get you started:
+I help organizations build and scale enterprise AI capabilities, modern data platforms and AI operating models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Define enterprise AI strategies
+- Design data & AI target architectures
+- Build Agentic AI and GenAI solutions
+- Drive AI governance and adoption
+- Transform data into measurable business value
+
+## 🏗 Current Focus
+
+- Agentic AI
+- Multi-Agent Systems
+- Graph-RAG
+- Databricks & Delta Lake
+- Enterprise AI Governance
+- AI Product Development
+
+## 💻 Tech Stack
+
+Databricks • Apache Spark • Delta Lake • Azure • Python • Scala • Kafka • Airflow • Terraform • LangChain • LangGraph
+
+## 🌍 Connect
+
+- LinkedIn: linkedin.com/in/yakup-oeztuerk
+- GitHub: github.com/yoezbai
+
+> Building the bridge between enterprise strategy, data platforms and AI.
