@@ -1,4 +1,4 @@
-# Hi, I'm Yakup Oeztuerk 👋
+# Hi, I'm Yakup Ozturk 👋
 
 AI Strategy Expert | Data & AI Architect | MBA Candidate @ WHU
 
